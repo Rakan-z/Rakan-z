@@ -1,4 +1,5 @@
-- Currently completing an MSc in Data Science at King's College London
+- Currently completing an MSc in Data Science at King's College London.
+- Completed a BEng in Electronic Engineering with Management.
 - Email: rzabian@icloud.com
 
 <!---
