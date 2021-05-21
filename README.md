@@ -1,4 +1,6 @@
 - Currently completing an MSc in Data Science at King's College London.
+- Research in deep learning and computer vision in the context of functional gesture recognition. 
+- Working on machine learning and data analysis applications through project implementations.
 - Completed a BEng in Electronic Engineering with Management at King's College London.
 - Email: rzabian@icloud.com
 
