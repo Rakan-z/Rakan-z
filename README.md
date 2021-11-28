@@ -1,3 +1,4 @@
+- Currently aiming to improve the mental health of children and young people as a founder on Zinc VC’s venture builder program.
 - Working on machine learning and data analysis applications through project implementations.
 - Completed an MSc in Data Science at King's College London with research in deep learning and computer vision in the context of functional gesture recognition. 
 - Completed a BEng in Electronic Engineering with Management at King's College London with research in drones and telecommunications in the context of UAV assisted 5G networks.
